@@ -1,0 +1,85 @@
+{
+    "courses": {
+        "AI/ML": [
+            {
+                "name": "Introduction to Machine Learning",
+                "details": "Learn the basics of machine learning and how to implement algorithms.",
+                "image": "https://copyassignment.com/wp-content/uploads/2022/07/Data-768x432.png"
+            },
+            {
+                "name": "Deep Learning Fundamentals",
+                "details": "Dive into neural networks and deep learning techniques.",
+                "image": "https://media.licdn.com/dms/image/D5612AQG64FIJTWWB5w/article-cover_image-shrink_720_1280/0/1694687352022?e=1726099200&v=beta&t=9-lP1nawc5sv8T-e265hmz8vMBtMIaJ-KsmSAa2AQP4"
+            },
+            {
+                "name": "AI for Everyone",
+                "details": "Understand the implications of AI and its applications in various fields.",
+                "image": "https://blog.tonerden.com/wp-content/uploads/2020/03/TT-AI_For_Everyone_Blog_Size.jpg"
+            },
+            {
+                "name": "Natural Language Processing",
+                "details": "Explore the techniques used to process and analyze human language.",
+                "image": "https://imageio.forbes.com/blogs-images/bernardmarr/files/2019/06/5-Amazing-Examples-Of-Natural-Language-Processing-NLP-In-Practice-1200x639.jpeg?format=jpg&width=1440"
+            },
+            {
+                "name": "Reinforcement Learning",
+                "details": "Learn about the methods and algorithms in reinforcement learning.",
+                "image": "https://www.analyticssteps.com/backend/media/thumbnail/445375/1781890_1573621074_Rainforcement_banner_tittle.jpg"
+            }
+        ],
+        "Database": [
+            {
+                "name": "SQL for Data Analysis",
+                "details": "Master SQL queries to analyze and manipulate data.",
+                "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*nN7yfbALEltwwFn8Aom6Dg.jpeg"
+            },
+            {
+                "name": "Database Management Systems",
+                "details": "Understand the core concepts of database management systems.",
+                "image": "https://www.quest.com/images/patterns/text-image/learn-dbms.jpg"
+            },
+            {
+                "name": "NoSQL Databases",
+                "details": "Learn about the various types of NoSQL databases and their applications.",
+                "image": "https://blog.purestorage.com/wp-content/uploads/2023/08/shutterstock_467410664-1-1400x916.jpg"
+            },
+            {
+                "name": "Data Warehousing",
+                "details": "Gain insights into data warehousing concepts and architecture.",
+                "image": "https://media.licdn.com/dms/image/D4D12AQEuTGj7eyRgtQ/article-cover_image-shrink_720_1280/0/1677594737628?e=1726099200&v=beta&t=ErR3I6A9iK8cBvU5F8AzdsAAhQX984zH_1Mlj8rh-UA"
+            },
+            {
+                "name": "Advanced SQL",
+                "details": "Enhance your SQL skills with advanced querying techniques.",
+                "image": "https://miro.medium.com/v2/resize:fit:640/format:webp/0*QCqJqD4IIC8bUQGd"
+            }
+        ],
+        "Development": [
+            {
+                "name": "Web Development Bootcamp",
+                "details": "Learn to build websites from scratch using HTML, CSS, and JavaScript.",
+                "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221222184908/web-development1.png"
+            },
+            {
+                "name": "Full Stack Development",
+                "details": "Become a full stack developer with knowledge of both frontend and backend technologies.",
+                "image": "https://www.spec-india.com/wp-content/uploads/2020/06/Full_Stack.png"
+            },
+            {
+                "name": "Mobile App Development",
+                "details": "Create mobile applications for Android and iOS platforms.",
+                "image": "https://www.etatvasoft.com/blog/wp-content/uploads/2022/08/mobile-app-development-methodologies.jpg"
+            },
+            {
+                "name": "DevOps Essentials",
+                "details": "Understand the principles and practices of DevOps.",
+                "image": "https://media.licdn.com/dms/image/C5612AQFEglYZd6JGnA/article-cover_image-shrink_720_1280/0/1642385766566?e=1726099200&v=beta&t=mx-Yom3GbT4jddQHRgKiTMriGXe2Kzx5Jpbeq3fTH7I"
+            },
+            {
+                "name": "Game Development",
+                "details": "Learn the basics of game development and create your own games.",
+                "image": "https://t4.ftcdn.net/jpg/08/37/93/01/240_F_837930135_QjOtgCxxfqkNEwApPN5Pt2gVKuqDRYYs.jpg"
+            }
+        ]
+    }
+}
